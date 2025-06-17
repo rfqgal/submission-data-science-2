@@ -61,7 +61,7 @@ streamlit run app.py
 
 #### Access Deployed Model Predict Prototype
 
-[student-dropout-rate-rfqgal](https://student-dropout-rate-rfqgal.streamlit.app/)
+Streamlit app: [Student Droprout Rate](https://student-dropout-rate-rfqgal.streamlit.app/)
 
 ## Conclusion
 
