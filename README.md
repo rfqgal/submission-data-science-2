@@ -48,7 +48,7 @@ Dashboard bisnis ini menampilkan 10 faktor penting, berdasarkan model yang telah
 
 Setiap segmen menampilkan faktor gambaran mengenai potensi dropout siswa.
 
-Dashboard dibuat menggunakan Looker Studio dan dapat diakses pada [tautan berikut](https://lookerstudio.google.com/s/vA8TQCGhxlE).
+Dashboard Looker Studio dapat diakses pada [tautan berikut](https://lookerstudio.google.com/s/vA8TQCGhxlE).
 
 ## Menjalankan Aplikasi Prediksi Dropout
 
